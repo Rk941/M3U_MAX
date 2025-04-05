@@ -8,7 +8,7 @@ https://f-droid.org/en/packages/com.termux/
 
 After installation, give storage permission:
 
-termux-setup-storage
+```termux-setup-storage```
 
 
 ---
