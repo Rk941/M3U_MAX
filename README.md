@@ -1,4 +1,8 @@
 # M3U_MAX
+NOTE 📌 
+NEED A WORKING BRAIN TO OPERATE THIS
+SCRIPT
+
 A simple Python script to create and host your own IPTV .m3u playlists on Android using Termux — no root or PC required.
 
 Install Termux
