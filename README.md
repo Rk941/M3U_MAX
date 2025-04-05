@@ -8,7 +8,7 @@ https://f-droid.org/en/packages/com.termux/
 
 After installation, give storage permission:
 
-```termux-setup-storage```
+termux-setup-storage
 
 
 ---
@@ -17,9 +17,9 @@ After installation, give storage permission:
 
 Run these commands in Termux:
 
-```pkg update && pkg upgrade -y`
+pkg update && pkg upgrade -y
 pkg install python git tmux -y
-pip install requests cloudscraper pyfiglet colorama tmuxp```
+pip install requests cloudscraper pyfiglet colorama tmuxp
 
 
 ---
@@ -34,8 +34,8 @@ Place the M3U-MAX folder (with pmaker2.py) into your internal storage:
 
 Then in Termux:
 
-```cd ~/storage/shared/M3U-MAX`
-python pmaker2.py```
+cd ~/storage/shared/M3U-MAX
+python pmaker2.py
 
 
 ---
